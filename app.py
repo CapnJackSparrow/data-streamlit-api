@@ -5,6 +5,7 @@ import requests
 '''
 # TaxiFareModel front
 '''
+st.image('taxi.jpg')
 
 st.markdown('''## Taxi fare estimator''')
 
